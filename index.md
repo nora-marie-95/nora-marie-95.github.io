@@ -6,7 +6,7 @@
 
 [Case Study: Instacart Grocery Basket Analysis](/sample_page)
 
-Instacart is an existing online grocery store that operates through an app. For this project, I analyzed purchasing behaviours and customer profiles. 
+Instacart is an existing online grocery store that operates through an app. For this project, I analyzed purchasing behaviours and customer profiles.
 
 Data: Open-sourced from Instacart. The final integrated date set has over 30 million rows and includes information about orders, Instacart's customers and products.
 
@@ -14,13 +14,20 @@ Tools: Python and Jupyter, Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
 Procedures: Data wrangling, Combining data, Deriving new variables, Grouping data and aggregating variables
 
-Q: The sales team needs to know what the busiest days of the week and hours of the day are in order to schedule ads at times when there are fewer orders. 
 
 Most orders are placed on Saturdays.
 <img src="images/Screenshot 2024-02-11 at 14.52.44.png?raw=true"/>
 
 Most orders are placed between 10 am and 17 pm.
 <img src="images/Screenshot 2024-02-11 at 14.53.02.png?raw=true"/>
+
+Customers buy the most expensive products at 2 a. m.
+<img src="images/Screenshot 2024-02-11 at 14.54.33.png?raw=true"/>
+
+The most popular types of products are produce, dairy, eggs and snacks. 
+<img src="images/Screenshot 2024-02-11 at 14.55.05.png?raw=true"/>
+
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
