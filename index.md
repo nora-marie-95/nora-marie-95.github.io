@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Instacart Grocery Basket Analysis](/sample_page)
+<img src="Screenshot 2024-02-11 at 14.52.44.png?raw=true"/>
+<img src="Screenshot 2024-02-11 at 14.53.02.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
