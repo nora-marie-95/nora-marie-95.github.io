@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Instacart Grocery Basket Analysis](/sample_page)
-<img src="images/Screenshot 2024-02-11 at 14.53.02.png?raw=true"/>
+<img src="images/Screenshot 2024-02-11 at 14.52.44.png?raw=true"/>
 <img src="images/Screenshot 2024-02-11 at 14.53.02.png?raw=true"/>
 
 ---
