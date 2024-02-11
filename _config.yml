@@ -3,7 +3,7 @@ logo: "/images/1_Bew copy.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data analyst with strong background in computational linguistics and scrum leading.
  
-  <a href="https://www.linkedin.com/in/nora-lienenbecker-2372b51b4/">View My LinkedIn Profile</a> 
+<a href="https://www.linkedin.com/in/nora-lienenbecker-2372b51b4/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
