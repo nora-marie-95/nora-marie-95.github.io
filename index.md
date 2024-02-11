@@ -2,7 +2,7 @@
 
 ---
 
-### [Case Study: Instacart Grocery Basket Analysis](/https://github.com/nora-marie-95/Instacart-Basket-Analysis-Project)
+### [Case Study: Instacart Grocery Basket Analysis](https://github.com/nora-marie-95/Instacart-Basket-Analysis-Project)
 
 Instacart is an existing online grocery store that operates through an app. For this project, I analyzed purchasing behaviours and customer profiles.
 
