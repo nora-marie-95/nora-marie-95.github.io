@@ -2,9 +2,7 @@
 
 ---
 
-### Category Name 1 
-
-[Case Study: Instacart Grocery Basket Analysis](/sample_page)
+###[Case Study: Instacart Grocery Basket Analysis](/https://github.com/nora-marie-95/Instacart-Basket-Analysis-Project)
 
 Instacart is an existing online grocery store that operates through an app. For this project, I analyzed purchasing behaviours and customer profiles.
 
@@ -38,8 +36,6 @@ The most popular types of products are produce, dairy, eggs and snacks.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
