@@ -6,7 +6,7 @@
 
 Background: Instacart is an existing online grocery store that operates through an app. For this project, I analyzed purchasing behaviours and customer profiles.
 
-Data: Open-sourced from Instacart. The final integrated date set has over 30 million rows and includes information about orders, Instacart's customers and products.
+Data: Open-sourced from Instacart. The final integrated date set has over 30 million rows and includes information about orders, Instacart's customers and products. [The dataset can be downloaded here.](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 Tools: Python and Jupyter, Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
