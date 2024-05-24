@@ -19,16 +19,15 @@ The weekday where the most orders are placed is Saturday. The time period with t
 Figure 1. Cumulative orders per weekday in millions.   Figure 2. Cumulative orders per time period.
 <br>
 <br>    
-The most expensive products are purchased at 2 a.m.    
-<img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"> 
-Figure 3. Mean price in dollars per hour of the day.
+The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department!   
+
+<div> <img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;" /></div> 
+Figure 3. Mean price in dollars per hour of the day. Figure 4. Cumulative orders per department in millions.
+
 <br>
 <br>    
-The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department! 
-<img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;">
-Figure 4. Cumulative orders per department in millions.
-<br>
-<br>    
+
+ 
 
 Conclusions and Recommendations: The busiest day of the week is Saturday and the busiest time of the day is 10am – 13pm. Instacart needs to have enough staff available at these times. Instacart should schedule ads between 22pm and 9am when there are fewer orders. People buy the most expensive products at 2am. Instacart should recommend more expensive products at that time. 
 
@@ -106,14 +105,14 @@ Findings:
 
 Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
 
-<img src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough">
+<img width="720" src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough">
 Figure 9. Number of Listings and Mean Price per Borough. 
 
 
-<img src="images/Airbnb_2.png" alt="Airbnb Listings per Borough">
+<img width="720" src="images/Airbnb_2.png" alt="Airbnb Listings per Borough">
 Figure 10. Airbnb Listings per Borough.
 
-<img src="images/Airbnb_3.png">
+<img width="720" src="images/Airbnb_clusters.png" alt="Airbnb cluster analysis.png">
 Figure 11. Cluster analysis.
 <br>
 <br>
