@@ -43,12 +43,14 @@ States with a high population density are more likely to have a higher number of
 <figcaption>Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017)</figcaption>
 </figure>
 
+
 There is a positive correlation between the population size of a state and influenza death rates. 
 
 <figure>
 <img width="720" src="images/Influenza_2.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
 <figcaption>Influenza Death Rates and Population Density Across US States (2009-2017).</figcaption>     
 </figure>
+
      
 Conclusions and Recommendations: There is a strong correlation between population density and influenza death rates. A weak correlation was found between the size of the vulnerable population and influenza deaths in a state. Therefore, the staffing plan should prioritize states with a high population density and those with a large vulnerable population. Influenza season lasts from December to March. In January influenza deaths peak so this is when most recourses will be needed.
 
