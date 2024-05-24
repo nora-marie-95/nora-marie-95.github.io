@@ -14,12 +14,16 @@ Procedures: Data wrangling, Combining data, Deriving new variables, Grouping dat
 
 Findings:
 The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.
+<figure>
 <div> <img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 60%;" /></div> 
+<figcaption><small>Cumulative orders per weekday</figcaption>
+</figure>
 
-
+<figure>
 The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department! 
 <div> <img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;" /></div> 
-
+<figcaption><small>Mean price in dollars per hour of the day</figcaption>
+</figure>
      
 Conclusions and Recommendations: The busiest day of the week is Saturday and the busiest time of the day is 10am – 13pm. Instacart needs to have enough staff available at these times. Instacart should schedule ads between 22pm and 9am when there are fewer orders. People buy the most expensive products at 2am. Instacart should recommend more expensive products at that time. 
 
@@ -70,12 +74,18 @@ Findings:
 Q: Which countries are Rockbuster customers based in?
 India has the highest number of customers, followed by China and the US. 
 
+<figure>
 <img width="720" src="images/Rockbuster_1.png" alt="Customer Count and Revenue Across Countries.">
-
+<figcaption><small>Customer Count and Revenue Across Countries.</figcaption>     
+</figure>
+     
 Q: Do sales figures vary between geographic regions?
 
+<figure>
 <img width="720" src="images/Rockbuster_2.png" alt="Sales and Customer Counts of Top 10 Countries 
 ">
+<figcaption><small>Sales and Customer Counts of Top 10 Countries </figcaption>     
+</figure>
 
 Conclusions and Recommendations: The top 3 countries in terms of revenue and customer numbers are India, China and the US. Sports, Sci-Fi and Animation movies contribute the most to Rockbuster’s revenue. Rockbuster should focus on their top markets and promote their most popular genres
 
