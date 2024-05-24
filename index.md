@@ -16,11 +16,11 @@ Findings: The weekday where the most orders are placed is Saturday. The time per
 
 <div class="row">
   <figure>
-    <img alt="Cumulative orders per weekday" src="images/Screenshot 2024-02-11 at 14.52.44.png" style="float: left; width: 70%; height: 70%;">
+    <img alt="Cumulative orders per weekday" src="images/Screenshot 2024-02-11 at 14.52.44.png" style="width: 70%; height: 70%;">
     <figcaption>Figure 1. Cumulative orders per weekday.</figcaption>
   </figure>
   <figure>
-    <img alt="Cumulative orders per time period" src="images/Screenshot 2024-02-11 at 14.53.02.png" style="float: left; width: 70%; height: 70%;">
+    <img alt="Cumulative orders per time period" src="images/Screenshot 2024-02-11 at 14.53.02.png" style="width: 70%; height: 70%;">
     <figcaption>Figure 2. Cumulative orders per time period.</figcaption>
   </figure>
 </div>
