@@ -23,8 +23,19 @@ The most expensive products are purchased at 2 a.m. The departments with the mos
     
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### [Case Study: Preparing for Influenza Season]([https://github.com/nora-marie-95/Instacart-Basket-Analysis-Project](https://public.tableau.com/app/profile/nora.lienenbecker/viz/PreparingforInfluenzaSeason_16260986850200/PreparingforInfluenzaSeason2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Background: The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff. ​Determine when to send staff, and how many, to each state. 
+
+Data: Influenza deaths by geography, time, age, gender from the CDC, click [here](data set.https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) to download  Population data by geography from the US Census Bureau, click [here](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) to download data set. 
+
+Tools: Excel, Tableau
+
+Procedueres: Data cleaning, Data integration and transformation, Statistical hypothesis testing, Visual analysis and storytelling with Tableau 
+
+
+
 
 ---
 [Project 3 Title](http://example.com/)
