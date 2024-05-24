@@ -15,7 +15,6 @@ Procedures: Data wrangling, combining data, deriving new variables, grouping dat
 Findings:
 The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.    
 
-
 <div class="row">
   <figure>
     <img alt="Cumulative orders per weekday" src="images/Screenshot 2024-02-11 at 14.52.44.png">
@@ -31,7 +30,6 @@ The weekday where the most orders are placed is Saturday. The time period with t
 
 The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department!   
 
-
 <div class="row">
   <figure>
     <img alt="Mean price in dollars per hour of the day" src="images/Screenshot 2024-02-11 at 14.54.33.png">
@@ -42,12 +40,7 @@ The most expensive products are purchased at 2 a.m. The departments with the mos
     <figcaption>Figure 2. Cumulative orders per department.</figcaption>
   </figure>
 </div>
-<br>
-<br>    
-
-
- 
-
+  
 Conclusions and Recommendations: The busiest day of the week is Saturday and the busiest time of the day is 10am – 13pm. Instacart needs to have enough staff available at these times. Instacart should schedule ads between 22pm and 9am when there are fewer orders. People buy the most expensive products at 2am. Instacart should recommend more expensive products at that time. 
 
 
@@ -67,15 +60,12 @@ States with a high population density are more likely to have a higher number of
 
 <img src="images/Influenza_correlations.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
 Figure 5. Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).
-<br>
-
 
 There is a positive correlation between the population size of a state and influenza death rates. 
 
 <img width="720" src="images/Influenza_map.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
 Figure 6. Influenza Death Rates and Population Density Across US States (2009-2017).   
 <br>
-
      
 Conclusions and Recommendations: There is a strong correlation between population density and influenza death rates. A weak correlation was found between the size of the vulnerable population and influenza deaths in a state. Therefore, the staffing plan should prioritize states with a high population density and those with a large vulnerable population. Influenza season lasts from December to March. In January influenza deaths peak so this is when most recourses will be needed.
 
@@ -96,15 +86,12 @@ The genres that bring in the highest revenue are Sports, Sci-Fi and Animation.
 
 <img width="720" src="images/Rockbuster_genres.png" alt="Total Revenue by Movie Genre.">
 Figure 7. Total Revenue in dollar by movie genre.  
-<br>
  
-
 India has the highest customer count and revenue, followed by China and the US.
 
 <img src="images/Rockbuster_sales.png" alt="Sales and Customer Counts of Top 10 Countries">
 Figure 8. Sales and Customer Counts of Top 10 Countries. 
-<br>
-<br>
+
 Conclusions and Recommendations: The top 3 countries in terms of revenue and customer numbers are India, China and the US. Sports, Sci-Fi and Animation movies contribute the most to Rockbuster’s revenue. Rockbuster should focus on their top markets and promote their most popular genres
 
 
@@ -127,17 +114,13 @@ Manhattan has the highest number of listings and the most expensive prices. The 
 <img width="720" src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough">
 Figure 9. Number of Listings and Mean Price per Borough. 
 
-
 <img width="720" src="images/Airbnb_2.png" alt="Airbnb Listings per Borough">
 Figure 10. Airbnb Listings per Borough.
 
 <img width="720" src="images/Airbnb_clusters.png" alt="Airbnb cluster analysis.png">
 Figure 11. Cluster analysis.
-<br>
-<br>
 
 Conclusions and Next Steps: I was able to identify four clusters in the data. The four types of Airbnbs are luxury (cluster 2), expensive (cluster 3), affordable with a high availability (0) and affordable with a low availability (1). Luxury and expensive apartments have a low number of reviews compared to affordable apartments. Hosts of luxury apartments have few listings. A next step could be to use a classification algorithm to see whether prices can be predicted based on the identified clusters.
-
 
 
 ---
