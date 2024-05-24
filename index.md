@@ -19,8 +19,8 @@ The weekday where the most orders are placed is Saturday. The time period with t
 The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department! 
 <div> <img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;" /></div> 
      
+Conclusions and Recommendations: The busiest day of the week is Saturday, Instacart needs to have enough staff available. The busiest time of the day is 10am – 13pm. Instacart should schedule ads between 22pm and 9am when there are fewer orders. People buy the most expensive products at 2am. Instacart should recommend more expensive products at that time. 
 
-    
 
 ---
 ### [Case Study: Preparing for Influenza Season](https://public.tableau.com/app/profile/nora.lienenbecker/viz/PreparingforInfluenzaSeason_16260986850200/PreparingforInfluenzaSeason2)
@@ -42,6 +42,8 @@ States with a high population density are more likely to have a higher number of
 There is a positive correlation between the population size of a state and influenza death rates. 
 
 <img width="720" src="images/Influenza_2.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
+
+Conclusions and Recommendations: There is a strong correlation between population density and influenza death rates. A weak correlation was found between the size of the vulnerable population and influenza deaths in a state. Therefore, the staffing plan should prioritize states with a high population density and those with a large vulnerable population. Influenza season lasts from December to March. In January influenza deaths peak so this is when most recourses will be needed.
 
 
 ---
