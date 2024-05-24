@@ -16,10 +16,12 @@ Findings:
 The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.
 <div> <img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 60%;" /></div> 
 
+
 The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department! 
 <div> <img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;" /></div> 
+
      
-Conclusions and Recommendations: The busiest day of the week is Saturday, Instacart needs to have enough staff available. The busiest time of the day is 10am – 13pm. Instacart should schedule ads between 22pm and 9am when there are fewer orders. People buy the most expensive products at 2am. Instacart should recommend more expensive products at that time. 
+Conclusions and Recommendations: The busiest day of the week is Saturday and the busiest time of the day is 10am – 13pm. Instacart needs to have enough staff available at these times. Instacart should schedule ads between 22pm and 9am when there are fewer orders. People buy the most expensive products at 2am. Instacart should recommend more expensive products at that time. 
 
 
 ---
@@ -27,7 +29,7 @@ Conclusions and Recommendations: The busiest day of the week is Saturday, Instac
 
 Background: The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff. ​Determine when to send staff, and how many, to each state. 
 
-Data: Influenza deaths by geography, time, age, gender from the CDC, [click here to download data set](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) Population data by geography from the US Census Bureau, [click here to download data set.](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) 
+Data: Influenza deaths by geography, time, age, gender from the CDC, [click here to download data set.](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) Population data by geography from the US Census Bureau, [click here to download data set.](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) 
 
 Tools: Excel, Tableau
 
@@ -36,8 +38,10 @@ Procedueres: Data cleaning, Data integration and transformation, Statistical hyp
 Findings: 
 States with a high population density are more likely to have a higher number of influenza deaths relative to their population size. 
 
+<figure>
 <img width="720" src="images/Influenza_1.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
-
+<figcaption>Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017)</figcaption>
+<figure>
 
 There is a positive correlation between the population size of a state and influenza death rates. 
 
