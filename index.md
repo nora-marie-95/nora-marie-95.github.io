@@ -90,19 +90,19 @@ Tools: SQL, DB Visualizer, Tableau
 Procedures: Summarizing and cleaning data, filtering data, joining tables, subqueries and CTEs
 
 Findings: 
-India has the highest number of customers, followed by China and the US. 
+The genres that bring in the highest revenue are Sports, Sci-Fi and Animation.
 
 <figure>
-<img width="720" src="images/Rockbuster_1.png" alt="Customer Count and Revenue Across Countries.">
-<figcaption><small>Figure 7. Customer Count and Revenue Across Countries.</figcaption>     
+<img width="720" src="images/Rockbuster_genres.png" alt="Total Revenue by Movie Genre.">
 </figure>
+<figcaption><small>Figure 7. Total Revenue in dollar by movie genre.</figcaption>     
 <br>
 <br>    
 
-India, China and the US have the highest customer count and revenue.
+India has the highest customer count and revenue, followed by China and the US.
 <figure>
-<img width="720" src="images/Rockbuster_2.png" alt="Sales and Customer Counts of Top 10 Countries 
-">
+<img src="images/Rockbuster_sales.png" alt="Sales and Customer Counts of Top 10 Countries" style="float: left; width: 60%; height: 60%;"
+>
 <figcaption><small>Figure 8. Sales and Customer Counts of Top 10 Countries.</figcaption>     
 </figure>
 <br>
