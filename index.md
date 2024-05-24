@@ -83,10 +83,10 @@ Findings:
 
 Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
 
-<img width="720" src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough
+<img src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough
 ">
 
-<img width="720" src="images/Airbnb_2.png" alt="Airbnb Listings per Borough
+<img src="images/Airbnb_2.png" alt="Airbnb Listings per Borough
 ">
 
 
