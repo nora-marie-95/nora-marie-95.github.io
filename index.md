@@ -31,11 +31,20 @@ The weekday where the most orders are placed is Saturday. The time period with t
 
 The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department!   
 
-<div> <img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;" /></div> 
-Figure 3. Mean price in dollars per hour of the day. Figure 4. Cumulative orders per department in millions.
 
+<div class="row">
+  <figure>
+    <img alt="Mean price in dollars per hour of the day" src="images/Screenshot 2024-02-11 at 14.54.33.png">
+    <figcaption>Figure 3. Mean price in dollars per hour of the day.</figcaption>
+  </figure>
+  <figure>
+    <img alt="Cumulative orders per department" src="images/Screenshot 2024-02-11 at 14.55.05.png">
+    <figcaption>Figure 2. Cumulative orders per department.</figcaption>
+  </figure>
+</div>
 <br>
 <br>    
+
 
  
 
