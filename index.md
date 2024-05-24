@@ -6,40 +6,42 @@
 
 Background: Instacart is an existing online grocery store that operates through an app. For this project, I analyzed purchasing behaviours and customer profiles.
 
-Data: Open-sourced from Instacart. The final integrated date set has over 30 million rows and includes information about orders, Instacart's customers and products. [The dataset can be downloaded here.](https://www.instacart.com/datasets/grocery-shopping-2017)
+Data: Open-sourced from Instacart. The final integrated data set has over 30 million rows and includes information about orders, Instacart's customers and products. [The dataset can be downloaded here.](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 Tools: Python and Jupyter, Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
 Procedures: Data wrangling, Combining data, Deriving new variables, Grouping data and aggregating variables
 
 Findings:
-The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.
-
+The weekday where the most orders are placed is Saturday. 
 <figure>
 <img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"> 
 <figcaption><small>Figure 1. Cumulative orders per weekday in millions.</figcaption>
 </figure>
-
+<br>
+<br>  
+The time period with the highest number of purchases is between 10 a.m. and 1 p.m.    
 <figure>
 <img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 50%;"> 
 <figcaption><small>Figure 2. Cumulative orders per time period in millions.</figcaption>
 </figure>
 <br>
-<br>
-The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department! 
-
-
+<br>    
+The most expensive products are purchased at 2 a.m.    
 <figure>
 <img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"> 
 <figcaption><small>Figure 3. Mean price in dollars per hour of the day.</figcaption>
 </figure>
-
+<br>
+<br>    
+The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department! 
 <figure>
 <img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;">
 <figcaption><small>Figure 4. Cumulative orders per department in millions.</figcaption>
 </figure>
 <br>
 <br>    
+
 Conclusions and Recommendations: The busiest day of the week is Saturday and the busiest time of the day is 10am – 13pm. Instacart needs to have enough staff available at these times. Instacart should schedule ads between 22pm and 9am when there are fewer orders. People buy the most expensive products at 2am. Instacart should recommend more expensive products at that time. 
 
 
