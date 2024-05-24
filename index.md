@@ -35,11 +35,13 @@ Procedueres: Data cleaning, Data integration and transformation, Statistical hyp
 
 Findings: 
 States with a high population density are more likely to have a higher number of influenza deaths relative to their population size. 
+
 <img width="720" src="images/Influenza_1.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
 
 
 There is a positive correlation between the population size of a state and influenza death rates. 
-<img width="720" src="images/Influenza_2.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
+
+<img width="720" src="images/Influenza_2.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
 
 
 ---
@@ -57,11 +59,12 @@ Findings:
 Q: Which countries are Rockbuster customers based in?
 India has the highest number of customers, followed by China and the US. 
 
+<img width="720" src="images/Rockbuster_1.png" alt="Customer Count and Revenue Across Countries.">
+
 Q: Do sales figures vary between geographic regions?
-Sales and Customer Counts of Top 10 Countries 
 
-
-
+<img width="720" src="images/Rockbuster_2.png" alt="Sales and Customer Counts of Top 10 Countries 
+">
 
 
 ---
