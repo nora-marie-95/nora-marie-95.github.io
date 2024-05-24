@@ -13,16 +13,10 @@ Tools: Python and Jupyter, Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy
 Procedures: Data wrangling, combining data, deriving new variables, grouping data and aggregating variables
 
 Findings:
-The weekday where the most orders are placed is Saturday. 
+The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.    
 
-<img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"> 
-Figure 1. Cumulative orders per weekday in millions.
-<br>
-<br>  
-The time period with the highest number of purchases is between 10 a.m. and 1 p.m.    
-
-<img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 50%;"> 
-Figure 2. Cumulative orders per time period in millions.
+<div> <img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 60%;" /></div> 
+Figure 1. Cumulative orders per weekday in millions.   Figure 2. Cumulative orders per time period.
 <br>
 <br>    
 The most expensive products are purchased at 2 a.m.    
@@ -56,14 +50,14 @@ States with a high population density are more likely to have a higher number of
 <img src="images/Influenza_correlations.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
 Figure 5. Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).
 <br>
-<br>
+
 
 There is a positive correlation between the population size of a state and influenza death rates. 
 
 <img width="720" src="images/Influenza_map.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
 Figure 6. Influenza Death Rates and Population Density Across US States (2009-2017).   
 <br>
-<br>
+
      
 Conclusions and Recommendations: There is a strong correlation between population density and influenza death rates. A weak correlation was found between the size of the vulnerable population and influenza deaths in a state. Therefore, the staffing plan should prioritize states with a high population density and those with a large vulnerable population. Influenza season lasts from December to March. In January influenza deaths peak so this is when most recourses will be needed.
 
@@ -85,7 +79,7 @@ The genres that bring in the highest revenue are Sports, Sci-Fi and Animation.
 <img width="720" src="images/Rockbuster_genres.png" alt="Total Revenue by Movie Genre.">
 Figure 7. Total Revenue in dollar by movie genre.  
 <br>
-<br>    
+ 
 
 India has the highest customer count and revenue, followed by China and the US.
 
