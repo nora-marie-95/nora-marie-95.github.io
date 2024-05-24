@@ -39,7 +39,7 @@ States with a high population density are more likely to have a higher number of
 
 
 There is a positive correlation between the population size of a state and influenza death rates. 
-<img width="974" alt="image" src="images/Influenza_2.png>
+<img width="720" src="images/Influenza_2.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
 
 
 ---
