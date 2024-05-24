@@ -29,11 +29,11 @@ The most expensive products are purchased at 2 a.m. The departments with the mos
 
 <div class="row">
   <figure>
-    <img alt="Mean price in dollars per hour of the day" src="images/Screenshot 2024-02-11 at 14.54.33.png">
+    <img alt="Mean price in dollars per hour of the day" src="images/Screenshot 2024-02-11 at 14.54.33.png" style="width: 70%; height: 70%;">
     <figcaption>Figure 3. Mean price in dollars per hour of the day.</figcaption>
   </figure>
   <figure>
-    <img alt="Cumulative orders per department" src="images/Screenshot 2024-02-11 at 14.55.05.png">
+    <img alt="Cumulative orders per department" src="images/Screenshot 2024-02-11 at 14.55.05.png" style="width: 70%; height: 70%;">
     <figcaption>Figure 2. Cumulative orders per department.</figcaption>
   </figure>
 </div>
@@ -54,12 +54,12 @@ Procedueres: Data cleaning, data integration and transformation, statistical hyp
 
 Findings: States with a high population density are more likely to have a higher number of influenza deaths relative to their population size. 
 
-<img src="images/Influenza_correlations.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
+<img width="1000" src="images/Influenza_correlations.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
 Figure 5. Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).
 
 There is a positive correlation between the population size of a state and influenza death rates. 
 
-<img width="720" src="images/Influenza_map.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
+<img width="1000" src="images/Influenza_map.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
 Figure 6. Influenza Death Rates and Population Density Across US States (2009-2017).   
      
 Conclusions and Recommendations: There is a strong correlation between population density and influenza death rates. A weak correlation was found between the size of the vulnerable population and influenza deaths in a state. Therefore, the staffing plan should prioritize states with a high population density and those with a large vulnerable population. Influenza season lasts from December to March. In January influenza deaths peak so this is when most recourses will be needed.
@@ -102,17 +102,15 @@ Tools: Python and Jupyter, Tableau
 
 Procedures: Data cleaning and wrangling, exploratory analysis, machine learning techniques: regression analysis and clustering, geospatial analysis, analysing time series data 
 
-Findings: 
+Findings: Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
 
-Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
-
-<img width="720" src="images/Airbnb_boroughs.png" alt="Number of Listings and Mean Price per Borough">
+<img width="600" src="images/Airbnb_boroughs.png" alt="Number of Listings and Mean Price per Borough">
 Figure 9. Number of Listings and Mean Price per Borough. 
 
 <img width="720" src="images/Airbnb_2.png" alt="Airbnb Listings per Borough">
 Figure 10. Airbnb Listings per Borough.
 
-<img width="720" src="images/Airbnb_clusters.png" alt="Airbnb cluster analysis.png">
+<img width="2000" src="images/Airbnb_clusters.png" alt="Airbnb cluster analysis.png">
 Figure 11. Cluster analysis.
 
 Conclusions and Next Steps: I was able to identify four clusters in the data. The four types of Airbnbs are luxury (cluster 2), expensive (cluster 3), affordable with a high availability (0) and affordable with a low availability (1). Luxury and expensive apartments have a low number of reviews compared to affordable apartments. Hosts of luxury apartments have few listings. A next step could be to use a classification algorithm to see whether prices can be predicted based on the identified clusters.
