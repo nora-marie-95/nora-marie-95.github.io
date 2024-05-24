@@ -10,7 +10,7 @@ Data: Open-sourced from Instacart. The final integrated data set has over 30 mil
 
 Tools: Python and Jupyter, Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
-Procedures: Data wrangling, Combining data, Deriving new variables, Grouping data and aggregating variables
+Procedures: Data wrangling, combining data, deriving new variables, grouping data and aggregating variables
 
 Findings:
 The weekday where the most orders are placed is Saturday. 
@@ -54,13 +54,13 @@ Data: Influenza deaths by geography, time, age, gender from the CDC, [click here
 
 Tools: Excel, Tableau
 
-Procedueres: Data cleaning, Data integration and transformation, Statistical hypothesis testing, Visual analysis and storytelling with Tableau 
+Procedueres: Data cleaning, data integration and transformation, statistical hypothesis testing, visual analysis and storytelling with Tableau 
 
 Findings: 
 States with a high population density are more likely to have a higher number of influenza deaths relative to their population size. 
 
 <figure>
-<img src="images/Influenza_1.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
+<img src="images/Influenza_correlations.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
 <figcaption><small>Figure 5. Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).</figcaption>
 </figure>
 <br>
@@ -69,7 +69,7 @@ States with a high population density are more likely to have a higher number of
 There is a positive correlation between the population size of a state and influenza death rates. 
 
 <figure>
-<img width="720" src="images/Influenza_2.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
+<img width="720" src="images/Influenza_map.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
 <figcaption><small>Figure 6. Influenza Death Rates and Population Density Across US States (2009-2017).</figcaption>     
 </figure>
 <br>
@@ -87,10 +87,9 @@ Data: The data set is a relational data base which contains information about Ro
 
 Tools: SQL, DB Visualizer, Tableau
 
-Procedures: Summarizing and cleaning data, Filtering data, Joining tables, Subqueries and CTEs
+Procedures: Summarizing and cleaning data, filtering data, joining tables, subqueries and CTEs
 
 Findings: 
-Q: Which countries are Rockbuster customers based in?
 India has the highest number of customers, followed by China and the US. 
 
 <figure>
@@ -99,8 +98,8 @@ India has the highest number of customers, followed by China and the US.
 </figure>
 <br>
 <br>    
-Q: Do sales figures vary between geographic regions?
 
+India, China and the US have the highest customer count and revenue.
 <figure>
 <img width="720" src="images/Rockbuster_2.png" alt="Sales and Customer Counts of Top 10 Countries 
 ">
@@ -121,7 +120,7 @@ The original data set has 48895 rows and 16 columns. [The data can be downloaded
 
 Tools: Python and Jupyter, Tableau 
 
-Procedures: Data cleaning and wrangling, Exploratory Analysis, Machine Learning techniques: Regression Analysis and Clustering, Geospatial Analysis, Analysing Time Series Data 
+Procedures: Data cleaning and wrangling, exploratory analysis, machine learning techniques: regression analysis and clustering, geospatial analysis, analysing time series data 
 
 Findings: 
 
