@@ -15,8 +15,16 @@ Procedures: Data wrangling, combining data, deriving new variables, grouping dat
 Findings:
 The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.    
 
-<div> <img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 60%;" /></div> 
-Figure 1. Cumulative orders per weekday in millions.   Figure 2. Cumulative orders per time period.
+<div> <figure> 
+<img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"/>   
+<figcaption>Figure 1. Cumulative orders per weekday</figcaption> 
+</figure>
+<figure> 
+<img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 60%;" 
+<figcaption>Figure 2. Cumulative orders per time period</figcaption> 
+</figure>
+/></div> 
+
 <br>
 <br>    
 The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department!   
