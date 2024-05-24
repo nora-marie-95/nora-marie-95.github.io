@@ -83,7 +83,7 @@ Figure 7. Total Revenue in dollar by movie genre.
 
 India has the highest customer count and revenue, followed by China and the US.
 
-<img src="images/Rockbuster_sales.png" alt="Sales and Customer Counts of Top 10 Countries" style="float: left; width: 60%; height: 60%;">
+<img src="images/Rockbuster_sales.png" alt="Sales and Customer Counts of Top 10 Countries">
 Figure 8. Sales and Customer Counts of Top 10 Countries. 
 <br>
 <br>
@@ -106,13 +106,11 @@ Findings:
 
 Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
 
-<img src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough
-" style="float: left; width: 50%; height: 50%;">
+<img src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough">
 Figure 9. Number of Listings and Mean Price per Borough. 
 
 
-<img src="images/Airbnb_2.png" alt="Airbnb Listings per Borough
-" style="float: left; width: 50%; height: 50%;">
+<img src="images/Airbnb_2.png" alt="Airbnb Listings per Borough">
 Figure 10. Airbnb Listings per Borough.
 
 <img src="images/Airbnb_3.png">
