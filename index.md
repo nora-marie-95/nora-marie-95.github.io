@@ -16,13 +16,13 @@ Findings:
 The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.
 <figure>
 <div> <img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 60%;" /></div> 
-<figcaption><small>Cumulative orders per weekday</figcaption>
+<figcaption><small>Figure 1. Cumulative orders per weekday.</figcaption>
 </figure>
 
 <figure>
 The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department! 
 <div> <img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"/> <img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;" /></div> 
-<figcaption><small>Mean price in dollars per hour of the day</figcaption>
+<figcaption><small>Figure 2. Mean price in dollars per hour of the day.</figcaption>
 </figure>
      
 Conclusions and Recommendations: The busiest day of the week is Saturday and the busiest time of the day is 10am – 13pm. Instacart needs to have enough staff available at these times. Instacart should schedule ads between 22pm and 9am when there are fewer orders. People buy the most expensive products at 2am. Instacart should recommend more expensive products at that time. 
@@ -44,7 +44,7 @@ States with a high population density are more likely to have a higher number of
 
 <figure>
 <img src="images/Influenza_1.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
-<figcaption><small>Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017)</figcaption>
+<figcaption><small>Figure 3. Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).</figcaption>
 </figure>
 
 
@@ -52,7 +52,7 @@ There is a positive correlation between the population size of a state and influ
 
 <figure>
 <img width="720" src="images/Influenza_2.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
-<figcaption><small>Influenza Death Rates and Population Density Across US States (2009-2017).</figcaption>     
+<figcaption><small>Figure 4. Influenza Death Rates and Population Density Across US States (2009-2017).</figcaption>     
 </figure>
 
      
@@ -76,7 +76,7 @@ India has the highest number of customers, followed by China and the US.
 
 <figure>
 <img width="720" src="images/Rockbuster_1.png" alt="Customer Count and Revenue Across Countries.">
-<figcaption><small>Customer Count and Revenue Across Countries.</figcaption>     
+<figcaption><small>Figure 5. Customer Count and Revenue Across Countries.</figcaption>     
 </figure>
      
 Q: Do sales figures vary between geographic regions?
@@ -84,7 +84,7 @@ Q: Do sales figures vary between geographic regions?
 <figure>
 <img width="720" src="images/Rockbuster_2.png" alt="Sales and Customer Counts of Top 10 Countries 
 ">
-<figcaption><small>Sales and Customer Counts of Top 10 Countries </figcaption>     
+<figcaption><small>Figure 6. Sales and Customer Counts of Top 10 Countries.</figcaption>     
 </figure>
 
 Conclusions and Recommendations: The top 3 countries in terms of revenue and customer numbers are India, China and the US. Sports, Sci-Fi and Animation movies contribute the most to Rockbuster’s revenue. Rockbuster should focus on their top markets and promote their most popular genres
@@ -106,14 +106,23 @@ Findings:
 
 Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
 
+<figure>
 <img src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough
 " style="float: left; width: 50%; height: 50%;">
+<figcaption><small>Figure 7. Number of Listings and Mean Price per Borough.</figcaption>     
+</figure>
 
+<figure>
 <img src="images/Airbnb_2.png" alt="Airbnb Listings per Borough
 " style="float: left; width: 50%; height: 50%;">
+<figcaption><small>Figure 8. Airbnb Listings per Borough.</figcaption>     
+</figure>
 
-Cluster Analysis
+<figure>
 <img src="images/Airbnb_3.png">
+<figcaption><small>Figure 9. Cluster analysis.</figcaption>     
+</figure>
+
 
 Conclusions and Next Steps: I was able to identify four clusters in the data. The four types of Airbnbs are luxury (cluster 2), expensive (cluster 3), affordable with a high availability (0) and affordable with a low availability (1). Luxury and expensive apartments have a low number of reviews compared to affordable apartments. Hosts of luxury apartments have few listings. A next step could be to use a classification algorithm to see whether prices can be predicted based on the identified clusters.
 
