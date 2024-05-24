@@ -14,31 +14,25 @@ Procedures: Data wrangling, combining data, deriving new variables, grouping dat
 
 Findings:
 The weekday where the most orders are placed is Saturday. 
-<figure>
+
 <img src="images/Screenshot 2024-02-11 at 14.52.44.png" alt="Cumulative orders per weekday" style="float: left; width: 50%; height: 50%;"> 
-<figcaption><small>Figure 1. Cumulative orders per weekday in millions.</figcaption>
-</figure>
+Figure 1. Cumulative orders per weekday in millions.
 <br>
 <br>  
 The time period with the highest number of purchases is between 10 a.m. and 1 p.m.    
-<figure>
+
 <img src="images/Screenshot 2024-02-11 at 14.53.02.png" alt="Cumulative orders per time period" style="float: left; width: 50%; height: 50%;"> 
-<figcaption><small>Figure 2. Cumulative orders per time period in millions.</figcaption>
-</figure>
+Figure 2. Cumulative orders per time period in millions.
 <br>
 <br>    
 The most expensive products are purchased at 2 a.m.    
-<figure>
 <img src="images/Screenshot 2024-02-11 at 14.54.33.png" alt="Mean price in dollars per hour of the day" style="float: left; width: 50%; height: 50%;"> 
-<figcaption><small>Figure 3. Mean price in dollars per hour of the day.</figcaption>
-</figure>
+Figure 3. Mean price in dollars per hour of the day.
 <br>
 <br>    
 The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department! 
-<figure>
 <img src="images/Screenshot 2024-02-11 at 14.55.05.png" alt="Cumulative orders per department" style="float: left; width: 50%; height: 50%;">
-<figcaption><small>Figure 4. Cumulative orders per department in millions.</figcaption>
-</figure>
+Figure 4. Cumulative orders per department in millions.
 <br>
 <br>    
 
@@ -59,19 +53,15 @@ Procedueres: Data cleaning, data integration and transformation, statistical hyp
 Findings: 
 States with a high population density are more likely to have a higher number of influenza deaths relative to their population size. 
 
-<figure>
 <img src="images/Influenza_correlations.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
-<figcaption><small>Figure 5. Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).</figcaption>
-</figure>
+Figure 5. Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).
 <br>
 <br>
 
 There is a positive correlation between the population size of a state and influenza death rates. 
 
-<figure>
 <img width="720" src="images/Influenza_map.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
-<figcaption><small>Figure 6. Influenza Death Rates and Population Density Across US States (2009-2017).</figcaption>     
-</figure>
+Figure 6. Influenza Death Rates and Population Density Across US States (2009-2017).   
 <br>
 <br>
      
@@ -92,19 +82,15 @@ Procedures: Summarizing and cleaning data, filtering data, joining tables, subqu
 Findings: 
 The genres that bring in the highest revenue are Sports, Sci-Fi and Animation.
 
-<figure>
 <img width="720" src="images/Rockbuster_genres.png" alt="Total Revenue by Movie Genre.">
-</figure>
-<figcaption><small>Figure 7. Total Revenue in dollar by movie genre.</figcaption>     
+Figure 7. Total Revenue in dollar by movie genre.  
 <br>
 <br>    
 
 India has the highest customer count and revenue, followed by China and the US.
-<figure>
-<img src="images/Rockbuster_sales.png" alt="Sales and Customer Counts of Top 10 Countries" style="float: left; width: 60%; height: 60%;"
->
-<figcaption><small>Figure 8. Sales and Customer Counts of Top 10 Countries.</figcaption>     
-</figure>
+
+<img src="images/Rockbuster_sales.png" alt="Sales and Customer Counts of Top 10 Countries" style="float: left; width: 60%; height: 60%;">
+Figure 8. Sales and Customer Counts of Top 10 Countries. 
 <br>
 <br>
 Conclusions and Recommendations: The top 3 countries in terms of revenue and customer numbers are India, China and the US. Sports, Sci-Fi and Animation movies contribute the most to Rockbuster’s revenue. Rockbuster should focus on their top markets and promote their most popular genres
@@ -126,22 +112,17 @@ Findings:
 
 Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
 
-<figure>
 <img src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough
 " style="float: left; width: 50%; height: 50%;">
-<figcaption><small>Figure 9. Number of Listings and Mean Price per Borough.</figcaption>     
-</figure>
+Figure 9. Number of Listings and Mean Price per Borough. 
 
-<figure>
+
 <img src="images/Airbnb_2.png" alt="Airbnb Listings per Borough
 " style="float: left; width: 50%; height: 50%;">
-<figcaption><small>Figure 10. Airbnb Listings per Borough.</figcaption>     
-</figure>
+Figure 10. Airbnb Listings per Borough.
 
-<figure>
 <img src="images/Airbnb_3.png">
-<figcaption><small>Figure 11. Cluster analysis.</figcaption>     
-</figure>
+Figure 11. Cluster analysis.
 <br>
 <br>
 
