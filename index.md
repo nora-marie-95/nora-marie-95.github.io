@@ -89,7 +89,7 @@ Manhattan has the highest number of listings and the most expensive prices. The 
 " style="float: left; width: 50%; height: 50%;">
 
 <img src="images/Airbnb_2.png" alt="Airbnb Listings per Borough
-">
+" style="float: left; width: 50%; height: 50%;">
 
 
 
