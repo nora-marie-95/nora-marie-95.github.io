@@ -68,15 +68,26 @@ Q: Do sales figures vary between geographic regions?
 
 
 ---
+### [Case Study: Airbnb NYC Analysis](https://public.tableau.com/app/profile/nora.lienenbecker/viz/AirbnbListingsAnalysis/Story1)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Background: Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. In this case study, I used a number of analytical approaches to develop insights into what drives the prices of Airbnb listings in New York City. 
 
----
+Data: Open-source data from Kaggle. Describes the listing activity and metrics in NYC, NY for 2019.
+The original data set has 48895 rows and 16 columns. [The data can be downloaded here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
+Tools: Python and Jupyter, Tableau 
+
+Procedures: Data cleaning and wrangling, Exploratory Analysis, Machine Learning techniques: Regression Analysis and Clustering, Geospatial Analysis, Analysing Time Series Data 
+
+Findings: 
+
+Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
+
+<img width="720" src="images/Airbnb_1.png" alt="Number of Listings and Mean Price per Borough
+">
+
+<img width="720" src="images/Airbnb_2.png" alt="Airbnb Listings per Borough
+">
 
 
 
