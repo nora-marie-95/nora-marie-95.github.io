@@ -12,22 +12,19 @@ Tools: Python and Jupyter, Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
 Procedures: Data wrangling, combining data, deriving new variables, grouping data and aggregating variables
 
-Findings:
-The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.    
+Findings: The weekday where the most orders are placed is Saturday. The time period with the highest number of purchases is between 10 a.m. and 1 p.m.    
 
 <div class="row">
   <figure>
-    <img alt="Cumulative orders per weekday" src="images/Screenshot 2024-02-11 at 14.52.44.png">
+    <img alt="Cumulative orders per weekday" src="images/Screenshot 2024-02-11 at 14.52.44.png" style="float: left; width: 70%; height: 70%;">
     <figcaption>Figure 1. Cumulative orders per weekday.</figcaption>
   </figure>
   <figure>
-    <img alt="Cumulative orders per time period" src="images/Screenshot 2024-02-11 at 14.53.02.png">
+    <img alt="Cumulative orders per time period" src="images/Screenshot 2024-02-11 at 14.53.02.png" style="float: left; width: 70%; height: 70%;">
     <figcaption>Figure 2. Cumulative orders per time period.</figcaption>
   </figure>
 </div>
-<br>
-<br>    
-
+   
 The most expensive products are purchased at 2 a.m. The departments with the most product orders are the produce, dairy eggs, snacks and beaverages department!   
 
 <div class="row">
@@ -55,8 +52,7 @@ Tools: Excel, Tableau
 
 Procedueres: Data cleaning, data integration and transformation, statistical hypothesis testing, visual analysis and storytelling with Tableau 
 
-Findings: 
-States with a high population density are more likely to have a higher number of influenza deaths relative to their population size. 
+Findings: States with a high population density are more likely to have a higher number of influenza deaths relative to their population size. 
 
 <img src="images/Influenza_correlations.png" alt="Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).">
 Figure 5. Relationship Between Population Size, Population Density, Percentage of Vulnerable Population and Influenza Death Rates in the US (2009-2017).
@@ -65,7 +61,6 @@ There is a positive correlation between the population size of a state and influ
 
 <img width="720" src="images/Influenza_map.png" alt="Influenza Death Rates and Population Density Across US States (2009-2017).">
 Figure 6. Influenza Death Rates and Population Density Across US States (2009-2017).   
-<br>
      
 Conclusions and Recommendations: There is a strong correlation between population density and influenza death rates. A weak correlation was found between the size of the vulnerable population and influenza deaths in a state. Therefore, the staffing plan should prioritize states with a high population density and those with a large vulnerable population. Influenza season lasts from December to March. In January influenza deaths peak so this is when most recourses will be needed.
 
