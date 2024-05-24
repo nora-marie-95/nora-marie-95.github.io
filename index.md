@@ -68,6 +68,8 @@ Q: Do sales figures vary between geographic regions?
 <img width="720" src="images/Rockbuster_2.png" alt="Sales and Customer Counts of Top 10 Countries 
 ">
 
+Conclusions and Recommendations: The top 3 countries in terms of revenue and customer numbers are India, China and the US. Sports, Sci-Fi and Animation movies contribute the most to Rockbuster’s revenue. Rockbuster should focus on their top markets and promote their most popular genres
+
 
 ---
 ### [Case Study: Airbnb NYC Analysis](https://public.tableau.com/app/profile/nora.lienenbecker/viz/AirbnbListingsAnalysis/Story1)
@@ -90,6 +92,11 @@ Manhattan has the highest number of listings and the most expensive prices. The 
 
 <img src="images/Airbnb_2.png" alt="Airbnb Listings per Borough
 " style="float: left; width: 50%; height: 50%;">
+
+Cluster Analysis
+<img src="images/Airbnb_3.png">
+
+Conclusions and Next Steps: I was able to identify four clusters in the data. The four types of Airbnbs are luxury (cluster 2), expensive (cluster 3), affordable with a high availability (0) and affordable with a low availability (1). Luxury and expensive apartments have a low number of reviews compared to affordable apartments. Hosts of luxury apartments have few listings. A next step could be to use a classification algorithm to see whether prices can be predicted based on the identified clusters.
 
 
 
