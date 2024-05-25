@@ -2,9 +2,11 @@ title: Nora Lienenbecker # your name (or website title) here
 logo: "/images/1_Bew copy.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data analyst with strong background in computational linguistics and Scrum leading.
+  <br> 
   Tools: Python, SQL, Tableau, Excel
- 
+  <br> 
   <a href="https://www.linkedin.com/in/nora-lienenbecker-2372b51b4/">View My LinkedIn Profile</a> 
+  <br> 
   <a href="https://public.tableau.com/app/profile/nora.lienenbecker/vizzes">View My Projects on Tableau</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0
