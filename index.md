@@ -38,7 +38,7 @@ The most expensive products are purchased at 2 a.m. The departments with the mos
   </figure>
 </div>
   
-Conclusions and Recommendations: Instacart needs to have enough staff available between 10 am and 13 pm, the busiest time of day, and on Saturday, the busiest weekday. Instacart should schedule ads between 22 pm and 9 am when there are fewer orders and recommend more expensive products at 2 am when people buy the most expensive products.
+Conclusions and Recommendations: Instacart needs to have enough staff available between 10 a.m. and 13 p.m., the busiest time of day, and on Saturday, the busiest weekday. Instacart should schedule ads between 22 p.m. and 9 a.m. when there are fewer orders and recommend more expensive products at 2 a.m. when people buy the most expensive products.
 
 
 ---
