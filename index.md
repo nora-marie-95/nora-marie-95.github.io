@@ -111,7 +111,7 @@ The map below shows where Airbnb listings are located. Most Airbnbs are located 
 Figure 10. Airbnb Listings per Borough.
 
 Conclusions and Next Steps: I was able to identify four clusters in the data. The four types of Airbnbs are luxury (cluster 2), expensive (cluster 3), affordable with a high availability (0) and affordable with a low availability (1). Luxury and expensive apartments have a low number of reviews compared to affordable apartments. Hosts of luxury apartments have few listings. 
-<img width="2000" src="images/Airbnb_clusters.png" alt="Airbnb cluster analysis.png">
+<img src="images/Airbnb_clusters_2.png" alt="Airbnb cluster analysis.png">
 Figure 11. Cluster analysis.
 
 A next step could be to use a classification algorithm to see whether prices can be predicted based on the identified clusters.
