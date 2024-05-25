@@ -38,7 +38,7 @@ The most expensive products are purchased at 2 a.m. The departments with the mos
   </figure>
 </div>
   
-Conclusions and Recommendations: The busiest day of the week is Saturday and the busiest time of the day is 10am – 13pm. Instacart needs to have enough staff available at these times. Instacart should schedule ads between 22pm and 9am when there are fewer orders. Instacart should recommend more expensive products at 2 am, the time when people buy the most expensive products.
+Conclusions and Recommendations: Instacart needs to have enough staff available between 10 am and 13 pm, the busiest time of day, and on Saturday, the busiest weekday. Instacart should schedule ads between 22 pm and 9 am when there are fewer orders and recommend more expensive products at 2 am when people buy the most expensive products.
 
 
 ---
@@ -103,7 +103,7 @@ Procedures: Data cleaning and wrangling, exploratory analysis, machine learning 
 
 Findings: Manhattan has the highest number of listings and the most expensive prices. The Bronx has the lowest number of listings and the lowest prices. 
 
-<img width="600" src="images/Airbnb_boroughs.png" alt="Number of Listings and Mean Price per Borough">
+<img width=600 src="images/Airbnb_boroughs.png" alt="Number of Listings and Mean Price per Borough">
 Figure 9. Number of Listings and Mean Price per Borough. 
 
 The map below shows where Airbnb listings are located. Most Airbnbs are located in Manhattan and central Brooklyn.  
